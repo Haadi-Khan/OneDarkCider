@@ -1,7 +1,9 @@
 {
-	"name": "One Dark Theme",
-	"description": "One Dark Theme for Cider Music",
-	"version": "1.0.0",
-	"author": "Haadi Khan",
-	"github_repo": "Haadi-Khan/OneDarkCider"
+    "name": "One Dark Theme",
+    "description": "One Dark Theme for Cider Music",
+    "version": "1.0.0",
+    "author": "Haadi Khan",
+    "github_repo": "Haadi-Khan/OneDarkCider",
+    "id": 476551346,
+    "commit": "ae0aaef32f3c7892077a6937fc217d70b941ca60"
 }
